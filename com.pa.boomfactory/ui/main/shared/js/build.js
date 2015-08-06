@@ -30,6 +30,9 @@ function BuildHotkeyModel() {
             "/pa/units/land/vehicle_factory/vehicle_factory.json": ["factory", 14],
             "/pa/units/land/unit_cannon/unit_cannon.json": ["factory", 0],
             "/pa/units/land/bot_bomb_adv/bot_bomb_adv.json": ["factory", 1],
+			"/pa/units/land/bot_bomb_adv_vehicle/bot_bomb_adv_vehicle.json": ["factory", 2],
+			"/pa/units/air/bot_bomb_adv_air/bot_bomb_adv_air.json": ["factory", 3],
+			"/pa/units/sea/bot_bomb_adv_sea/bot_bomb_adv_sea.json": ["factory", 4],
 			
             "/pa/units/land/laser_defense_adv/laser_defense_adv.json": ["combat", 0],                   
             "/pa/units/land/tactical_missile_launcher/tactical_missile_launcher.json": ["combat", 2],
