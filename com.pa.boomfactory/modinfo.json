@@ -1,0 +1,24 @@
+{
+    "enabled": true,
+    "context": "server",
+    "identifier": "com.pa.boomfactory",
+    "display_name": "boom factory",
+    "description": "Build the Advanced Boombot, he die and spawn a Bot factory.",
+    "author": "startege1",
+    "version": "1.0",
+    "build": "85423",
+    "date": "2015/08/06",
+    "signature": "not yet implemented",
+    "forum": "",
+    "category": [
+        "server-mod",
+        "units",
+        "game-mode"
+		
+    ],
+    "id": "",
+    "icon": "",
+    "priority": 60
+	
+}
+
